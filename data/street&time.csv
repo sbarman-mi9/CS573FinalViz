@@ -1,0 +1,201 @@
+City,Street,12 AM,1 AM,2 AM,3 AM,4 AM,5 AM,6 AM,7 AM,8 AM,9 AM,10 AM,11 AM,12 PM,1 PM,2 PM,3 PM,4 PM,5 PM,6 PM,7 PM,8 PM,9 PM,10 PM,11 PM
+Boston,Rte 93 S ,11,11,15,7,5,3,5,12,17,21,9,17,18,11,18,19,19,21,17,10,12,11,10,10
+Boston,Rte 93 N,5,8,9,7,3,10,10,24,20,17,12,15,15,12,6,13,12,13,17,8,5,8,7,11
+Boston,STORROW DRIVE ,2,5,4,3,1,,,3,2,11,4,5,4,5,5,1,7,4,4,2,1,3,3,
+Boston,WILLIAM T MORRISSEY BOULEVARD ,2,2,2,,,,1,3,2,4,2,4,5,3,2,7,1,3,2,5,2,5,1,
+Boston,SOLDIERS FIELD ROAD ,1,2,,1,,2,,4,5,2,2,5,2,3,5,2,3,4,2,2,1,1,,1
+Boston,WASHINGTON STREET ,2,3,,1,,1,,1,3,1,2,2,,2,1,2,2,1,3,6,2,6,2,1
+Boston,COLUMBIA ROAD ,2,1,1,3,2,1,1,1,1,2,2,,7,1,3,2,2,3,2,2,3,,1,
+Boston,Rte 90 W ,1,1,,,,1,1,3,5,3,1,,,2,2,4,,7,3,1,2,2,1,2
+Boston,DORCHESTER AVENUE ,2,1,2,,1,,2,,2,1,2,,,3,4,,4,1,4,1,,3,,1
+Boston,FRONTAGE ROAD ,1,3,,2,,,4,,,,2,3,2,1,1,1,2,1,1,1,,,1,
+Brockton,BELMONT ST,,1,1,3,1,,,3,1,3,4,3,7,3,11,8,5,5,4,3,2,2,,
+Brockton,MAIN ST,4,2,0,1,0,1,0,4,4,1,6,4,10,9,13,10,17,9,4,5,6,6,2,1
+Brockton,WARREN AVE ,,2,,,,,,2,1,3,,,3,5,3,5,5,4,1,5,2,2,,1
+Brockton,PLEASANT ST,1,3,1,2,0,0,1,3,7,6,4,3,6,7,5,5,9,5,3,8,0,2,4,1
+Brockton,N MONTELLO ST,1,1,,1,,,,3,1,1,1,1,,5,3,3,5,6,1,,1,2,1,
+Brockton,CRESCENT ST,1,1,,,,,,4,1,3,1,4,2,4,3,1,2,1,2,1,1,1,,
+Brockton,CENTRE ST ,,1,,,,,,,3,3,,4,2,3,2,3,3,4,1,1,1,,,1
+Brockton,OAK ST,,1,,,,,,,1,2,2,1,4,2,5,5,2,4,1,1,1,,,
+Brockton,MONTELLO ST ,,,2,,,,1,1,2,2,5,1,1,1,1,3,1,1,2,,2,3,2,
+Brockton,NORTH MAIN STREET ,,1,,,,,1,4,1,1,2,2,1,2,2,2,4,1,,2,1,,,1
+Brookline,BEACON STREET ,,,,,,,,1,1,,1,,1,3,,,1,1,1,1,,,1,
+Brookline,HARVARD STREET,,,,,,,,1,,1,1,3,,1,,,,,1,1,,,1,
+Brookline,VETERANS OF FOREIGN WARS PARKWAY ,,,,,,,,,1,1,1,,,,,1,1,,,,1,,,
+Brookline,HORACE JAMES CIRCLE ,,,,,,,1,,,,,,,,2,,2,,,1,,,,
+Brookline,WASHINGTON STREET ,,,,,,,,1,,,1,,1,,,,,1,,,,,,1
+Brookline,HAMMOND POND PARKWAY ,,,,,,,,1,,,,1,1,,,,1,,,,1,,,
+Brookline,SAINT PAUL STREET ,,,,,,,,,,,1,,,1,,,,1,,,,,,1
+Brookline,WEST ROXBURY PARKWAY ,,,,,,,,,,,,,,,2,,2,,,,,,,
+Brookline,CYPRESS STREET,,,,,,1,1,,,,,,,,1,,1,,,,,,,
+Brookline,BOYLSTON STREET,,,,,,,1,,,1,,,,,,,,,2,,,,,
+Cambridge,MASSACHUSETTS AVENUE ,7,6,1,3,,1,5,9,11,8,4,10,6,8,7,7,7,14,9,10,5,8,6,7
+Cambridge,MEMORIAL DRIVE ,1,2,2,,1,1,1,,5,4,4,1,5,3,2,1,2,1,2,3,3,,,2
+Cambridge,CAMBRIDGE STREET ,,,,,,2,1,,4,3,2,3,1,5,6,1,,4,4,1,3,2,1,
+Cambridge,BROADWAY ,2,,1,,,,2,5,2,4,1,3,2,1,1,4,4,5,2,1,1,,2,
+Cambridge,MOUNT AUBURN STREET ,1,,1,,1,,1,,2,,1,1,,4,1,4,6,1,2,3,,1,,1
+Cambridge,PROSPECT STREET ,,,,,,1,,1,,1,1,1,4,1,,2,,1,4,1,,1,,1
+Cambridge,GARDEN STREET ,,,,1,,,1,1,3,2,,,,3,,2,2,1,,1,3,,,
+Cambridge,HAMPSHIRE STREET ,,,,,,,,2,1,2,2,,1,2,,2,,1,3,1,3,,,
+Cambridge,MEMORIAL DRIVE Rte UNKNOW ,1,,,,,1,1,,3,2,2,2,,2,1,1,1,,1,1,,,1,
+Cambridge,MAIN STREET ,,,,,,,,1,1,2,,2,3,1,2,,1,1,1,1,,2,,
+Fall River,SOUTH MAIN ST,,1,,,2,,,1,4,3,2,6,11,2,4,3,7,1,6,2,5,2,,4
+Fall River,NORTH MAIN ST,1,2,1,,,1,1,,1,7,5,7,5,6,4,4,6,3,4,4,2,,1,1
+Fall River,PLEASANT ST,1,,,1,,,1,4,2,6,8,4,,,8,6,10,3,4,,2,1,2,1
+Fall River,PLYMOUTH AVE,1,1,,,,,2,2,,4,4,1,9,4,7,5,8,4,3,1,4,1,2,1
+Fall River,PRESIDENT AVE,1,,1,,,,,8,2,1,2,1,4,6,3,2,8,9,3,1,2,,,
+Fall River,BEDFORD ST ,,2,,,,,1,1,2,,2,3,2,2,3,6,5,1,4,2,3,4,1,
+Fall River,BROADWAY ,,,,,,,1,,1,3,1,2,2,1,3,1,2,2,2,,1,2,1,1
+Fall River,ROBESON ST,,,1,,,,,2,2,1,1,2,2,,,2,,3,4,1,,,1,2
+Fall River,PLYMOUTH AVE ,,,2,,,,,,,,,1,1,1,1,2,3,3,2,2,2,,2,1
+Fall River,WILLIAM S. CANNING BOULEVARD,,,,,,,,,1,,,3,,3,2,3,3,1,3,1,3,,,
+Framingham,WORCESTER RD,1,,1,,,,,1,2,1,,2,1,4,4,3,6,3,2,4,1,1,1,
+Framingham,Rte 90 E ,,,1,,,1,2,4,5,4,,,3,3,1,3,3,,1,,,,1,
+Framingham,WORCESTER RD Rte 9 E,1,1,2,,,,2,2,,1,,1,,1,4,2,2,1,1,2,2,1,,1
+Framingham,WORCESTER RD Rte 9 W,2,,1,,,,1,1,3,2,,1,1,4,1,2,1,1,2,,2,1,,1
+Framingham,CONCORD ST ,,1,,,,,,1,,1,3,3,1,2,3,2,3,3,,,,2,,
+Framingham,Rte 90 W ,,,,1,1,,,2,,1,1,1,,,2,,3,3,1,2,,1,4,
+Framingham,EDGELL RD ,,,,,,,,1,3,1,1,1,,3,,3,,2,2,1,,,,
+Framingham,COCHITUATE RD,,1,1,1,,,,1,,,,,,3,1,,2,1,1,1,1,1,1,
+Framingham,CONCORD ST Rte 126 N ,1,,,,,,,1,1,3,,,,1,1,1,,2,2,,,,,1
+Framingham,CONCORD ST Rte 126 S ,,,,,,,,1,,,,1,,1,2,2,2,2,,2,,1,,
+Haverhill,Rte 495 N ,1,1,1,1,1,1,1,1,,3,2,1,,4,,5,1,5,1,,2,1,2,1
+Haverhill,Rte 495 S ,,1,,,,1,,4,3,,2,3,2,,3,1,6,1,2,,1,2,3,
+Haverhill,MAIN ST,1,,,,,1,,2,,3,2,1,1,2,3,7,2,1,4,,,2,2,
+Haverhill,SOUTH MAIN ST,1,,,,,,,1,3,2,,,2,1,2,,3,3,2,1,2,2,1,
+Haverhill,WINTER ST,,,,,,,,1,,1,2,2,1,,,4,,2,,2,2,1,,
+Haverhill,RIVER ST,,1,,,,,,1,,,1,2,,1,2,1,1,2,1,1,,2,1,1
+Haverhill,WASHINGTON ST,,1,1,,,,,,,1,,1,,2,1,2,2,2,1,1,,1,1,
+Haverhill,MAIN ST Rte 125 N ,,,,1,,,,,1,,1,1,,1,3,2,3,,1,,,,1,1
+Haverhill,HILLDALE AVE,,,1,,,,,1,1,,,1,1,2,1,2,2,1,1,1,,,,
+Haverhill,BROADWAY,,,,,,,,,2,1,1,1,,,3,3,1,,1,1,,,1,
+Lawrence,HAVERHILL STREET ,1,2,,2,,,,3,2,3,3,3,1,4,7,2,2,2,3,,1,1,1,
+Lawrence,BROADWAY ,1,2,,,,,2,3,2,1,1,2,4,5,4,,5,,1,2,,1,1,1
+Lawrence,SOUTH BROADWAY ,1,,,,,,1,,3,5,3,2,2,3,,2,2,2,,,,,3,2
+Lawrence,ESSEX STREET ,1,1,,,,1,1,1,2,1,,2,1,1,3,1,4,1,2,4,,2,,1
+Lawrence,LAWRENCE STREET ,1,1,1,1,,,1,1,3,1,3,1,2,3,,2,2,,,3,1,1,,1
+Lawrence,HAMPSHIRE STREET ,,,,,,,,1,,2,1,1,3,2,6,1,3,1,1,3,,1,,1
+Lawrence,SOUTH UNION STREET ,2,2,,1,1,,,,1,,1,1,1,1,,4,2,1,1,1,,1,1,
+Lawrence,JACKSON STREET ,,1,,,,,1,2,,1,2,1,1,1,2,3,1,,2,,1,1,,
+Lawrence,WATER STREET ,1,,,1,,,,2,3,1,,,1,,,1,2,1,,,1,,2,1
+Lawrence,AMESBURY STREET ,,,1,,,,,,1,1,2,2,,4,1,,3,,2,,,,,
+Lowell,MIDDLESEX STREET ,,1,,,,2,2,6,3,4,7,6,3,6,8,5,5,5,2,8,2,3,2,1
+Lowell,WESTFORD STREET ,1,,2,1,,,3,4,8,1,1,5,8,6,4,4,6,8,2,1,3,,2,2
+Lowell,BRIDGE STREET ,1,1,,,2,,2,2,2,4,5,5,3,6,3,10,4,2,5,5,3,2,2,1
+Lowell,CENTRAL STREET ,,1,3,,,,2,3,4,5,4,3,4,2,3,3,4,5,3,3,3,1,2,3
+Lowell,PAWTUCKET STREET ,2,1,2,,,,2,4,1,1,4,2,3,3,4,5,7,3,1,2,1,2,1,1
+Lowell,CHELMSFORD STREET ,1,1,2,,1,,2,,4,,4,5,3,3,2,2,2,3,1,,1,3,1,1
+Lowell,GORHAM STREET ,1,,,,1,,2,1,9,2,2,1,3,2,3,2,2,3,1,4,,,,
+Lowell,MAMMOTH ROAD ,1,,1,1,,1,,1,,2,2,4,2,1,4,2,7,2,3,,,,2,1
+Lowell,FLETCHER STREET ,,,,,,1,2,2,1,3,3,2,1,3,1,3,2,3,1,2,2,3,,1
+Lowell,THORNDIKE STREET ,1,,,1,,1,4,3,2,1,2,2,,1,3,,5,4,3,,,1,2,
+Lynn,BOSTON STREET ,1,2,,,,,7,4,5,6,1,4,8,8,8,7,11,5,3,4,4,,4,1
+Lynn,WESTERN AVENUE,1,,,1,1,,2,2,6,6,4,2,6,2,6,6,3,3,6,1,5,3,6,2
+Lynn,CHESTNUT STREET ,,2,,,1,1,,3,4,1,4,4,,3,6,7,3,7,6,1,2,2,3,
+Lynn,EASTERN AVENUE ,1,1,,,,2,1,5,4,5,3,1,2,7,2,2,2,4,4,1,5,4,2,1
+Lynn,ESSEX STREET ,3,1,,,1,2,1,5,1,,3,5,3,4,3,3,1,3,5,1,1,4,2,2
+Lynn,BROADWAY ,,,,,,1,4,2,1,,2,3,2,3,5,6,1,7,2,1,,3,,1
+Lynn,LYNNFIELD STREET,,,1,,,1,2,2,3,1,3,3,4,,4,3,,2,2,2,,2,1,2
+Lynn,CHATHAM STREET ,,1,,,,1,,,3,1,1,4,1,2,4,1,3,4,2,3,1,3,1,
+Lynn,BROAD STREET ,,3,,,,,,1,3,1,2,3,1,3,1,1,1,,1,2,1,,1,1
+Lynn,WASHINGTON STREET ,,,,,,1,1,2,1,2,2,1,2,1,5,,1,1,,2,1,1,,
+Malden,EASTERN AV,,,,,,,,,,,1,,2,1,1,1,3,6,,1,1,,,
+Malden,MAIN ST,,,,1,,2,,1,1,2,1,,,1,1,,1,1,,,2,,,
+Malden,FELLSWAY EAST ,,,,,,,2,1,1,,,,1,,,1,1,4,,1,1,,,1
+Malden,SALEM ST,,,,,,,1,,,1,1,3,,2,2,,2,,1,,,1,,
+Malden,COMMERCIAL ST ,,,,,,,,1,3,,,,1,1,3,,1,3,1,,,,,
+Malden,BROADWAY ST,,,,,,,,,2,1,,,,1,,3,1,1,,2,,1,,1
+Malden,FERRY ST ,,,1,2,,,,,,,,,1,1,1,1,2,1,,,1,,1,
+Malden,CHARLES ST,,,,,,,,4,1,1,,1,,,1,2,1,,,,1,,,
+Malden,PLEASANT ST,,,,,,,,1,,,,2,1,1,2,2,1,1,1,,,,,
+Malden,HIGHLAND AV ,1,,,,,,1,1,,,,1,,1,,1,2,,1,,1,,,
+Medford,MAIN STREET ,,1,2,,1,,,3,4,4,,4,2,3,1,6,3,3,2,3,,1,1,1
+Medford,HIGH STREET,,,,,,1,,,2,2,4,3,4,4,2,1,1,,1,2,2,1,1,
+Medford,Rte 93 S,1,,,,,1,4,1,6,4,4,,,,,3,,1,,,1,2,,
+Medford,RIVERSIDE AVENUE ,,,,,,,,1,3,2,,,3,3,2,2,2,2,1,,,3,,1
+Medford,SALEM STREET,,1,1,,1,,,,7,2,1,1,,,,2,1,,1,1,,1,2,
+Medford,Rte 93 N,,1,1,,1,,,1,2,,1,,,,1,2,6,,2,1,1,,,1
+Medford,Rte 93 N ,1,1,,,,,2,,,,,1,,1,2,,1,2,2,2,,2,,
+Medford,BOSTON AVENUE,2,1,,,,,,,1,,,1,1,,1,2,5,,,1,,,,
+Medford,WINTHROP STREET ,,,,1,,,,4,,2,,1,1,,,1,1,1,,,1,,,
+Medford,MYSTIC VALLEY PARKWAY Rte 16 E ,,1,1,,,,,,1,,,2,2,1,,3,,1,1,,,,,
+New bedford,ACUSHNET AVE,,1,1,1,1,,1,3,3,3,3,,7,8,11,5,4,5,4,2,3,1,3,1
+New bedford,COUNTY ST,,3,2,,,1,,2,2,2,3,4,3,4,5,1,4,,2,,4,3,1,2
+New bedford,ASHLEY BLVD,,,1,1,,,1,5,3,1,2,5,3,4,3,2,,6,1,,1,1,,1
+New bedford,COUNTY ST ,1,,2,1,1,,,5,3,6,1,,,1,4,3,2,3,,3,1,2,,2
+New bedford,KEMPTON ST ,,2,,,,,,,7,3,2,2,2,2,2,4,2,4,4,1,1,,2,
+New bedford,ROCKDALE AVE ,,,1,,,,1,1,2,3,3,3,2,1,2,4,5,5,2,1,,2,1,1
+New bedford,COVE RD,,,1,,,,1,,,2,2,1,6,2,1,2,3,2,1,1,1,1,1,
+New bedford,PURCHASE STREET,2,,3,1,,1,2,,,1,2,3,2,1,,1,3,1,1,1,,,,2
+New bedford,HATHAWAY RD,,1,,,,,2,1,2,1,,1,,,3,2,,2,3,1,,,,1
+New bedford,COGGESHALL ST ,,,,,,,1,1,1,,2,1,3,2,1,1,,1,1,2,1,,1,
+Plymouth,STATE ROAD,1,1,3,1,,1,2,,3,2,5,3,2,3,5,4,5,4,4,3,1,1,,2
+Plymouth,LONG POND ROAD,,,2,,2,1,,1,,1,2,1,3,4,9,2,3,3,4,,2,2,1,2
+Plymouth,Rte 3 S ,1,2,,,,,,2,1,1,,,2,2,1,5,2,2,3,1,,1,,1
+Plymouth,SAMOSET STREET,,,,,,,,,2,1,,2,,,3,4,7,3,1,1,,1,1,
+Plymouth,Rte 3 N,,,,,,,,4,2,,1,1,,1,4,1,2,,1,,2,1,1,
+Plymouth,Rte 3 S,1,,,,1,,,1,,,,2,1,3,1,3,1,,1,1,,2,,1
+Plymouth,COURT STREET ,,,,,,,,1,1,1,1,2,4,,1,1,,,1,1,,2,,
+Plymouth,COMMERCE WAY,,,,,,,,,1,,1,1,3,1,3,1,,1,,2,1,,,
+Plymouth,WARREN AVENUE,,1,,,,,,1,2,2,2,1,,,1,,,1,1,,,,1,
+Plymouth,CARVER ROAD,1,,,,1,,,,1,1,,,1,,,3,2,1,,1,,,,
+Quincy,HANCOCK STREET,1,,,,1,,,2,5,1,3,7,6,8,6,2,4,3,8,,2,6,2,1
+Quincy,HONORABLE THOMAS S BURGIN PARKWAY ,1,1,1,,,,5,,3,3,2,3,7,2,5,4,4,2,2,3,4,5,1,
+Quincy,Rte 93 S,1,,,,2,,1,1,3,2,5,2,2,1,4,6,7,2,3,,,4,,1
+Quincy,SOUTHERN ARTERY,,3,,,1,,2,,1,3,2,,4,4,2,5,3,3,3,1,,,,
+Quincy,QUINCY SHORE DRIVE ,,1,,,,,,2,,3,,3,2,2,4,2,2,2,2,2,3,1,3,2
+Quincy,Rte 93 N ,,1,,,1,,1,1,1,1,,1,3,1,4,3,1,1,4,1,4,1,1,1
+Quincy,FURNACE BROOK PARKWAY ,,1,,,2,,1,2,3,4,1,1,1,2,2,2,1,2,1,,,,2,1
+Quincy,WASHINGTON STREET ,1,1,,,,,,1,4,,1,1,2,1,3,2,1,4,1,3,,1,,1
+Quincy,QUINCY AV,,,,,,,,,1,1,,1,3,3,2,2,1,1,2,3,,,,
+Quincy,SEA STREET,1,,,,,,,3,2,1,2,,1,,1,,1,,,1,1,,2,
+Somerville,BROADWAY ,1,1,,,,,1,6,2,4,3,4,2,5,3,5,6,2,4,,,1,4,
+Somerville,WASHINGTON STREET ,,,,1,,1,,1,1,3,1,2,2,1,2,1,,3,,1,,1,1,
+Somerville,SOMERVILLE AVENUE ,,,1,,,1,,2,3,1,1,2,1,,1,2,,2,4,1,,,,
+Somerville,HIGHLAND AVENUE,1,1,,,,,,,2,2,,1,3,1,1,2,,3,1,1,1,,1,
+Somerville,MYSTIC AVENUE ,,,,,1,,,1,1,1,,1,1,,2,2,,2,1,,2,,,1
+Somerville,SUMMER STREET ,,1,,1,,,1,,,1,1,1,3,1,1,,1,1,2,,,,,
+Somerville,Rte 93 S ,,,,,,1,,,,,3,1,,,,,,4,,1,,,4,1
+Somerville,BEACON STREET,,,,,,,2,1,2,2,,,,,,1,,,3,1,,1,,
+Somerville,Rte 93 N,1,,,,,2,,1,,,1,,,2,,,,1,1,2,,1,,
+Somerville,MCGRATH HIGHWAY Rte 28 N ,2,,,,,,,,,,,,4,,,1,,,,1,2,,,1
+Springfield,BOSTON RD,,,2,,,1,,,3,6,2,11,12,11,2,14,17,11,11,6,5,4,3,
+Springfield,STATE ST ,4,3,2,,1,1,3,4,4,5,3,5,9,7,12,10,13,6,6,5,4,4,1,1
+Springfield,SUMNER AVE ,1,2,,,,1,3,5,3,3,4,2,2,12,7,6,8,6,10,2,2,1,3,3
+Springfield,MAIN ST ,1,5,2,2,,,1,3,3,3,6,5,6,1,4,8,4,5,2,1,,1,3,5
+Springfield,WILBRAHAM RD,3,,1,,1,1,,,1,1,2,2,2,2,6,9,8,5,2,4,1,3,2,1
+Springfield,ALLEN ST ,4,1,2,,1,,2,2,8,4,1,3,3,,3,3,5,1,1,2,1,2,1,3
+Springfield,Rte 91 N,2,1,2,1,1,2,1,4,1,1,2,1,2,3,2,2,3,4,1,4,2,2,1,2
+Springfield,CAREW ST ,1,2,,1,1,,1,1,2,,2,2,2,4,7,4,4,1,5,3,1,,,3
+Springfield,PARKER ST ,2,,,,,1,1,3,,,2,1,1,3,2,7,8,4,3,2,1,3,1,
+Springfield,PAGE BLVD ,,2,2,2,1,1,3,,1,1,2,1,3,1,6,2,4,4,,1,2,2,,1
+Taunton,COUNTY ST,,,,,,,1,3,,,,4,,3,4,2,1,3,,,1,,1,
+Taunton,TREMONT ST,,1,,,1,,,1,,2,2,2,,3,2,,2,,1,2,1,1,1,
+Taunton,BAY ST ,,,,,,,,3,1,,1,,3,1,3,2,2,3,,,1,2,,
+Taunton,BROADWAY,,,1,,,,,,1,,2,3,4,,1,,2,3,1,,,1,,2
+Taunton,WINTHROP ST,,,,,,,,2,,,1,1,1,1,2,1,4,1,2,,1,,,1
+Taunton,Rte 140 N ,,,,1,,1,1,,,,1,,2,,2,2,,2,,,,,1,
+Taunton,WASHINGTON ST ,,,,,,,,,1,2,1,1,,,,3,2,1,1,,1,,,
+Taunton,Rte 24 S ,1,1,,,,,,,,,,,1,,1,1,4,2,,,,,1,
+Taunton,COHANNET ST,,,,,,,,,,2,,,1,1,,,1,1,1,1,,,,1
+Taunton,Rte 140 S ,,1,3,,,,,,,,,1,,,,,,,3,,1,,,
+Waltham,LEXINGTON ST,,,,,,,1,3,3,1,1,5,2,2,5,5,4,5,2,1,2,2,2,1
+Waltham,MAIN ST,,,,,,1,1,3,3,,7,3,4,3,4,1,3,3,6,1,,1,1,1
+Waltham,Rte 95 S ,,,,1,2,,1,2,,1,1,3,,3,,3,,5,5,2,1,,1,
+Waltham,Rte 95 N ,,2,,,,,,2,1,2,,,2,,2,3,2,3,4,1,,,,
+Waltham,MOODY ST,1,1,,,,,,2,,1,2,1,,1,1,,1,1,4,,2,2,1,1
+Waltham,HIGH ST ,1,,1,1,,,1,,1,1,,,1,,,,4,2,3,1,,1,,
+Waltham,SOUTH ST,,,,,,,,2,,2,1,1,2,1,,1,1,1,2,1,1,1,,
+Waltham,BACON ST ,,,,,,1,,2,,,1,,1,4,,1,2,1,2,,,,1,1
+Waltham,WAVERLEY OAKS RD,1,,,,1,,,,,2,,2,,1,2,1,3,,1,1,,,1,
+Waltham,TRAPELO RD,1,,,,1,1,,,1,3,,,1,1,2,2,,1,,,,,,
+Worcester,MAIN STREET ,5,4,1,1,3,1,1,6,6,6,5,5,5,8,6,11,13,12,7,8,7,2,5,4
+Worcester,PARK AVENUE,6,2,,,,,,4,1,,5,7,9,2,8,10,8,8,4,6,,2,4,3
+Worcester,BELMONT STREET ,1,1,2,3,,1,,4,4,5,5,1,6,4,7,3,7,9,5,4,4,2,2,1
+Worcester,CHANDLER STREET ,2,,2,2,,1,,5,1,5,4,5,7,9,5,4,4,8,2,4,2,2,5,1
+Worcester,GRAFTON STREET ,1,3,,1,,1,,1,4,2,3,3,9,2,6,2,4,5,7,5,3,3,3,1
+Worcester,LINCOLN STREET,3,,,,,,2,2,2,,3,7,6,7,5,7,6,6,3,1,3,2,2,1
+Worcester,HIGHLAND STREET ,2,,,1,,1,2,1,5,2,3,5,6,3,3,4,8,5,5,1,3,2,1,2
+Worcester,CHANDLER STREET,,3,2,,2,,1,,2,2,2,6,6,3,5,3,2,4,4,1,5,1,4,2
+Worcester,PLEASANT STREET ,2,1,1,1,1,2,2,2,4,3,4,4,5,3,4,3,,2,5,1,3,3,,3
+Worcester,CAMBRIDGE STREET ,1,,,,,,3,1,1,2,3,3,2,6,2,7,7,2,5,4,3,1,1,2

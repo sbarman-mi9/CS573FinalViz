@@ -1,0 +1,88 @@
+.underline {
+    text-align: center;
+    text-decoration: underline;
+}
+
+body {
+    padding: 1%;
+    padding-top: 0;
+}
+
+svg.big {
+    background-color: whitesmoke;
+    /*padding: 50px; */
+}
+
+p.header {
+    text-align: left; 
+    width: 300px; 
+    height: 30px; 
+    padding-left: 50px;
+    margin-bottom: 20px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
+
+.tick line {
+    opacity: 0.15; /* see --> http://bl.ocks.org/hunzy/11110940 */
+    shape-rendering: crispEdges;
+}
+
+
+.header-font {
+/* Embed this font from Google Fonts at
+https://www.google.com/fonts/specimen/Monda */ 
+    /*background-color: #fff;*/
+    /*color: #444;*/
+    /*font-family: cursive;*/
+    font-family: 'Architects Daughter', serif;
+    /*font-feature-settings: "'liga' 1";*/
+    /*font-kerning: auto;
+    line-height: 1.5em;*/
+    /*text-shadow: 20px 4px 4px #aaa;*/
+}
+
+div.hide {
+    display: none;
+}
+
+div.show {
+    display: block;
+}
+
+.decortext {
+    line-height: 4px;
+}
+
+.center {
+    text-align: center;
+}
+
+#tooltip {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    margin: 0;
+    padding: 4px;
+    width: 200px;
+    height: 20px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.75);
+    opacity: 0;
+    pointer-events:none;
+}
