@@ -1,5 +1,4 @@
 .underline {
-    text-align: center;
     text-decoration: underline;
 }
 
@@ -13,7 +12,7 @@ svg.big {
     /*padding: 50px; */
 }
 
-p.header {
+.header {
     text-align: left; 
     width: 300px; 
     height: 30px; 
@@ -68,6 +67,24 @@ div.show {
     text-align: center;
 }
 
+.center_boxes {
+    margin-left: 20px; 
+    margin-right:20px; 
+    text-align: center;
+}
+
+.center_slider {
+    margin-left: 300px; 
+    margin-right:300px; 
+    text-align: center;
+}
+
+.center_heatmaps {
+    display: inline;
+    float: left; 
+    margin-right: 20px;
+}
+
 #tooltip {
     position: absolute;
     top: 0;
@@ -85,4 +102,12 @@ div.show {
     background-color: rgba(0, 0, 0, 0.75);
     opacity: 0;
     pointer-events:none;
+}
+
+button {
+    color: #FFF;
+    background-color: #900;
+    font-weight: bold;
+    width: 50px;
+    height: 27px;
 }
