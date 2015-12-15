@@ -4,11 +4,17 @@ $.fn.extend({
 });
 $("#radio").buttonset();
 
-var width = 615;
-var height = 400;
+var margin = {top: 20, right: 50, bottom: 60, left: 80};
+var width = document.body.clientWidth - margin.left - margin.right;
+width=width-100
+var height = 420;
 var color  = d3.scale.category20(); 
 var gap = 5;
-var margin = {top: 40, bottom: 150, left: 60, right: 50};
+
+var svg=$("#towns svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+
 var data = noOfRows = null;
 
 d3.csv("data/crash_ma.csv", function(d) {
@@ -76,8 +82,20 @@ d3.selectAll("#radio input").on("click", function() {
 });
 
 d3.select("#t_cond").on("change", function() {
-    prepareConditionData(this.value);
+    prepareConditionData(this.value.toUpperCase());
+    $("parallelTown").val(this.value);
+    SetSelected("parallelTown",this.value)
 });
+
+function SetSelected(elem, val){
+    $('#'+elem+' option').each(function(i,d){
+        //  console.log('searching match for '+ elem + '  ' + d.value + ' equal to '+ val);
+        if($.trim(d.value).toLowerCase() == $.trim(val).toLowerCase()){
+            //      console.log('found match for '+ elem + '  ' + d.value);
+            $('#'+elem).prop('selectedIndex', i);
+        }
+    });
+}
 
 var prepareConditionData = function(value) {
     d3.selectAll("#townCondition svg g").remove();
@@ -132,6 +150,7 @@ var prepareDataForAll = function(useData) {
 };
 
 var barChart = function(params) {
+    height=420
     var xAxis = d3.svg.axis().scale(params.xScale)
                              .orient("bottom");
     this.append("g").attr("class", "x axis")
@@ -156,7 +175,7 @@ var barChart = function(params) {
         .enter()
         .append("rect")
         .attr("width", params.xScale.rangeBand()-params.gap)
-        .attr("height", function(d, i){ 
+        .attr("height", function(d, i){
                             return height - params.yScale(d.crashes);
                         })
         .attr("y", function(d, i){
@@ -172,7 +191,7 @@ var barChart = function(params) {
 
     this.append("g").attr("class", "x label")
         .append("text").attr("x", (width)/2)
-        .attr("y", height-30)
+        .attr("y", height+40)
         .attr("text-anchor", "middle")
         .text("Towns");
 
@@ -185,11 +204,13 @@ var barChart = function(params) {
 
 var heatMap = function(params) {            
     var roadLabels = ["Snow", "Ice", "Wet", "Slush", "Dry"]; //rows
-    var lightLabels = ["Dark - lighted roadway", "Dawn", "Daylight", "Dusk", "Dark - roadway not lighted"]; //columns
-    var width = 300, height = 300, rows = 5, cols = 5;
+    var lightLabels = ["Dark-lighted", "Dawn", "Daylight", "Dusk", "Dark-not lighted"]; //columns
+    var width = 300
+        height = 300
+        var rows = 5, cols = 5;
     function cell_dim(total, cells) { return Math.floor(total/cells); }
-    var row_height = 40; //cell_dim(height, rows);
-    var col_width = 40;  //cell_dim(width, cols);
+    var row_height = cell_dim(height, rows);
+    var col_width = cell_dim(width, cols);
 
     var matrix = [];
     for (var i = 0; i < (rows * cols); i++){
@@ -206,8 +227,8 @@ var heatMap = function(params) {
                     .domain(d3.extent(matrix))
                     .range(["#ffe5e5", "#ff0000"]);
 
-    this.attr("width", col_width * cols + 50)
-        .attr("height", row_height * rows + 200);
+    this.attr("width", width + 50)
+        .attr("height", height+ 150);
     this.append("g")
         .attr("transform", "translate(50, 0)")
         .selectAll("rect")
@@ -232,8 +253,10 @@ var heatMap = function(params) {
         .selectAll("text").data(lightLabels)
         .enter()
         .append("text")
-        .attr("x", -205)
+        .attr("x", -(height+10))
         .attr("y", function(d,i) { return i * row_height + 70; })
         .attr("text-anchor", "end")
         .text(function(d) {return d;});
 };
+
+function cell_dim(total, cells) { return Math.floor(total/cells) }
