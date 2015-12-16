@@ -1,0 +1,801 @@
+City,Street,Time,value
+Boston,Rte 93 S,fall,89
+Boston,Rte 93 S,spring,72
+Boston,Rte 93 S,summer,74
+Boston,Rte 93 S,winter,74
+Boston,Rte 93 N,fall,73
+Boston,Rte 93 N,spring,54
+Boston,Rte 93 N,summer,84
+Boston,Rte 93 N,winter,56
+Boston,STORROW DRIVE,fall,22
+Boston,STORROW DRIVE,spring,27
+Boston,STORROW DRIVE,summer,15
+Boston,STORROW DRIVE,winter,20
+Boston,Rte 90 W,fall,25
+Boston,Rte 90 W,spring,15
+Boston,Rte 90 W,summer,19
+Boston,Rte 90 W,winter,17
+Boston,WASHINGTON STREET,fall,13
+Boston,WASHINGTON STREET,spring,19
+Boston,WASHINGTON STREET,summer,16
+Boston,WASHINGTON STREET,winter,19
+Boston,WILLIAM T MORRISSEY BOULEVARD,fall,22
+Boston,WILLIAM T MORRISSEY BOULEVARD,spring,31
+Boston,WILLIAM T MORRISSEY BOULEVARD,summer,4
+Boston,WILLIAM T MORRISSEY BOULEVARD,winter,8
+Boston,SOLDIERS FIELD ROAD,fall,16
+Boston,SOLDIERS FIELD ROAD,spring,18
+Boston,SOLDIERS FIELD ROAD,summer,14
+Boston,SOLDIERS FIELD ROAD,winter,14
+Boston,DORCHESTER AVENUE,fall,8
+Boston,DORCHESTER AVENUE,spring,22
+Boston,DORCHESTER AVENUE,summer,11
+Boston,DORCHESTER AVENUE,winter,19
+Boston,Rte 90 E,fall,15
+Boston,Rte 90 E,spring,11
+Boston,Rte 90 E,summer,16
+Boston,Rte 90 E,winter,15
+Boston,JOHN F FITZGERALD EXPRESSWAY Rte 93 N,fall,14
+Boston,JOHN F FITZGERALD EXPRESSWAY Rte 93 N,spring,15
+Boston,JOHN F FITZGERALD EXPRESSWAY Rte 93 N,summer,15
+Boston,JOHN F FITZGERALD EXPRESSWAY Rte 93 N,winter,8
+Brockton,MAIN ST,fall,29
+Brockton,MAIN ST,spring,29
+Brockton,MAIN ST,summer,36
+Brockton,MAIN ST,winter,25
+Brockton,BELMONT ST,fall,33
+Brockton,BELMONT ST,spring,26
+Brockton,BELMONT ST,summer,28
+Brockton,BELMONT ST,winter,28
+Brockton,PLEASANT ST,fall,25
+Brockton,PLEASANT ST,spring,21
+Brockton,PLEASANT ST,summer,29
+Brockton,PLEASANT ST,winter,11
+Brockton,WARREN AVE,fall,22
+Brockton,WARREN AVE,spring,17
+Brockton,WARREN AVE,summer,16
+Brockton,WARREN AVE,winter,15
+Brockton,CRESCENT ST,fall,21
+Brockton,CRESCENT ST,spring,10
+Brockton,CRESCENT ST,summer,15
+Brockton,CRESCENT ST,winter,16
+Brockton,CENTRE ST,fall,23
+Brockton,CENTRE ST,spring,8
+Brockton,CENTRE ST,summer,12
+Brockton,CENTRE ST,winter,9
+Brockton,MONTELLO ST,fall,15
+Brockton,MONTELLO ST,spring,9
+Brockton,MONTELLO ST,summer,15
+Brockton,MONTELLO ST,winter,12
+Brockton,OAK ST,fall,21
+Brockton,OAK ST,spring,9
+Brockton,OAK ST,summer,13
+Brockton,OAK ST,winter,5
+Brockton,N MONTELLO ST,fall,12
+Brockton,N MONTELLO ST,spring,11
+Brockton,N MONTELLO ST,summer,14
+Brockton,N MONTELLO ST,winter,8
+Brockton,FOREST AVE,fall,11
+Brockton,FOREST AVE,spring,12
+Brockton,FOREST AVE,summer,8
+Brockton,FOREST AVE,winter,11
+Brookline,BEACON STREET,fall,NA
+Brookline,BEACON STREET,spring,2
+Brookline,BEACON STREET,summer,13
+Brookline,BEACON STREET,winter,7
+Brookline,HARVARD STREET,fall,NA
+Brookline,HARVARD STREET,spring,4
+Brookline,HARVARD STREET,summer,7
+Brookline,HARVARD STREET,winter,6
+Brookline,WASHINGTON STREET,fall,NA
+Brookline,WASHINGTON STREET,spring,1
+Brookline,WASHINGTON STREET,summer,4
+Brookline,WASHINGTON STREET,winter,3
+Brookline,HORACE JAMES CIRCLE,fall,1
+Brookline,HORACE JAMES CIRCLE,spring,4
+Brookline,HORACE JAMES CIRCLE,summer,2
+Brookline,HORACE JAMES CIRCLE,winter,NA
+Brookline,VETERANS OF FOREIGN WARS PARKWAY,fall,2
+Brookline,VETERANS OF FOREIGN WARS PARKWAY,spring,NA
+Brookline,VETERANS OF FOREIGN WARS PARKWAY,summer,1
+Brookline,VETERANS OF FOREIGN WARS PARKWAY,winter,3
+Brookline,SAINT PAUL STREET,fall,NA
+Brookline,SAINT PAUL STREET,spring,1
+Brookline,SAINT PAUL STREET,summer,3
+Brookline,SAINT PAUL STREET,winter,2
+Brookline,HAMMOND POND PARKWAY,fall,2
+Brookline,HAMMOND POND PARKWAY,spring,1
+Brookline,HAMMOND POND PARKWAY,summer,2
+Brookline,HAMMOND POND PARKWAY,winter,1
+Brookline,BOYLSTON STREET,fall,NA
+Brookline,BOYLSTON STREET,spring,NA
+Brookline,BOYLSTON STREET,summer,3
+Brookline,BOYLSTON STREET,winter,3
+Brookline,LONGWOOD AVENUE,fall,NA
+Brookline,LONGWOOD AVENUE,spring,NA
+Brookline,LONGWOOD AVENUE,summer,3
+Brookline,LONGWOOD AVENUE,winter,3
+Brookline,BOYLSTON STREET Rte 9 W,fall,NA
+Brookline,BOYLSTON STREET Rte 9 W,spring,NA
+Brookline,BOYLSTON STREET Rte 9 W,summer,4
+Brookline,BOYLSTON STREET Rte 9 W,winter,1
+Cambridge,MASSACHUSETTS AVENUE,fall,67
+Cambridge,MASSACHUSETTS AVENUE,spring,52
+Cambridge,MASSACHUSETTS AVENUE,summer,59
+Cambridge,MASSACHUSETTS AVENUE,winter,48
+Cambridge,CAMBRIDGE STREET,fall,13
+Cambridge,CAMBRIDGE STREET,spring,22
+Cambridge,CAMBRIDGE STREET,summer,14
+Cambridge,CAMBRIDGE STREET,winter,17
+Cambridge,MEMORIAL DRIVE,fall,16
+Cambridge,MEMORIAL DRIVE,spring,15
+Cambridge,MEMORIAL DRIVE,summer,7
+Cambridge,MEMORIAL DRIVE,winter,17
+Cambridge,MOUNT AUBURN STREET,fall,16
+Cambridge,MOUNT AUBURN STREET,spring,12
+Cambridge,MOUNT AUBURN STREET,summer,10
+Cambridge,MOUNT AUBURN STREET,winter,12
+Cambridge,BROADWAY,fall,16
+Cambridge,BROADWAY,spring,10
+Cambridge,BROADWAY,summer,10
+Cambridge,BROADWAY,winter,13
+Cambridge,HAMPSHIRE STREET,fall,8
+Cambridge,HAMPSHIRE STREET,spring,8
+Cambridge,HAMPSHIRE STREET,summer,7
+Cambridge,HAMPSHIRE STREET,winter,4
+Cambridge,PROSPECT STREET,fall,9
+Cambridge,PROSPECT STREET,spring,10
+Cambridge,PROSPECT STREET,summer,4
+Cambridge,PROSPECT STREET,winter,3
+Cambridge,GARDEN STREET,fall,7
+Cambridge,GARDEN STREET,spring,4
+Cambridge,GARDEN STREET,summer,6
+Cambridge,GARDEN STREET,winter,5
+Cambridge,MAIN STREET,fall,6
+Cambridge,MAIN STREET,spring,9
+Cambridge,MAIN STREET,summer,4
+Cambridge,MAIN STREET,winter,3
+Cambridge,PUTNAM AVENUE,fall,4
+Cambridge,PUTNAM AVENUE,spring,6
+Cambridge,PUTNAM AVENUE,summer,7
+Cambridge,PUTNAM AVENUE,winter,4
+Fall River,PLEASANT ST,fall,34
+Fall River,PLEASANT ST,spring,20
+Fall River,PLEASANT ST,summer,34
+Fall River,PLEASANT ST,winter,20
+Fall River,PLYMOUTH AVE,fall,25
+Fall River,PLYMOUTH AVE,spring,17
+Fall River,PLYMOUTH AVE,summer,23
+Fall River,PLYMOUTH AVE,winter,22
+Fall River,SOUTH MAIN ST,fall,25
+Fall River,SOUTH MAIN ST,spring,13
+Fall River,SOUTH MAIN ST,summer,29
+Fall River,SOUTH MAIN ST,winter,14
+Fall River,PRESIDENT AVE,fall,20
+Fall River,PRESIDENT AVE,spring,17
+Fall River,PRESIDENT AVE,summer,22
+Fall River,PRESIDENT AVE,winter,18
+Fall River,NORTH MAIN ST,fall,15
+Fall River,NORTH MAIN ST,spring,12
+Fall River,NORTH MAIN ST,summer,24
+Fall River,NORTH MAIN ST,winter,21
+Fall River,BEDFORD ST,fall,17
+Fall River,BEDFORD ST,spring,17
+Fall River,BEDFORD ST,summer,18
+Fall River,BEDFORD ST,winter,18
+Fall River,BROADWAY,fall,13
+Fall River,BROADWAY,spring,12
+Fall River,BROADWAY,summer,11
+Fall River,BROADWAY,winter,13
+Fall River,ROBESON ST,fall,12
+Fall River,ROBESON ST,spring,8
+Fall River,ROBESON ST,summer,14
+Fall River,ROBESON ST,winter,11
+Fall River,RODMAN ST,fall,8
+Fall River,RODMAN ST,spring,6
+Fall River,RODMAN ST,summer,13
+Fall River,RODMAN ST,winter,9
+Fall River,NORTH MAIN STREET,fall,10
+Fall River,NORTH MAIN STREET,spring,5
+Fall River,NORTH MAIN STREET,summer,9
+Fall River,NORTH MAIN STREET,winter,9
+Framingham,WORCESTER ROAD,fall,23
+Framingham,WORCESTER ROAD,spring,16
+Framingham,WORCESTER ROAD,summer,12
+Framingham,WORCESTER ROAD,winter,23
+Framingham,WORCESTER ROAD Rte 9 E,fall,17
+Framingham,WORCESTER ROAD Rte 9 E,spring,13
+Framingham,WORCESTER ROAD Rte 9 E,summer,16
+Framingham,WORCESTER ROAD Rte 9 E,winter,22
+Framingham,WORCESTER ROAD Rte 9 W,fall,16
+Framingham,WORCESTER ROAD Rte 9 W,spring,12
+Framingham,WORCESTER ROAD Rte 9 W,summer,18
+Framingham,WORCESTER ROAD Rte 9 W,winter,16
+Framingham,Rte 90 E,fall,19
+Framingham,Rte 90 E,spring,14
+Framingham,Rte 90 E,summer,14
+Framingham,Rte 90 E,winter,12
+Framingham,CONCORD ST,fall,14
+Framingham,CONCORD ST,spring,10
+Framingham,CONCORD ST,summer,7
+Framingham,CONCORD ST,winter,11
+Framingham,Rte 90 W,fall,14
+Framingham,Rte 90 W,spring,8
+Framingham,Rte 90 W,summer,12
+Framingham,Rte 90 W,winter,8
+Framingham,EDGELL RD,fall,10
+Framingham,EDGELL RD,spring,4
+Framingham,EDGELL RD,summer,7
+Framingham,EDGELL RD,winter,5
+Framingham,COCHITUATE RD,fall,13
+Framingham,COCHITUATE RD,spring,5
+Framingham,COCHITUATE RD,summer,4
+Framingham,COCHITUATE RD,winter,1
+Framingham,CONCORD ST Rte 126 N,fall,7
+Framingham,CONCORD ST Rte 126 N,spring,6
+Framingham,CONCORD ST Rte 126 N,summer,5
+Framingham,CONCORD ST Rte 126 N,winter,2
+Framingham,CONCORD STREET Rte 126 S,fall,8
+Framingham,CONCORD STREET Rte 126 S,spring,5
+Framingham,CONCORD STREET Rte 126 S,summer,5
+Framingham,CONCORD STREET Rte 126 S,winter,1
+Haverhill,MAIN ST,fall,11
+Haverhill,MAIN ST,spring,21
+Haverhill,MAIN ST,summer,22
+Haverhill,MAIN ST,winter,7
+Haverhill,Rte 495 N,fall,17
+Haverhill,Rte 495 N,spring,21
+Haverhill,Rte 495 N,summer,9
+Haverhill,Rte 495 N,winter,9
+Haverhill,Rte 495 S,fall,18
+Haverhill,Rte 495 S,spring,10
+Haverhill,Rte 495 S,summer,15
+Haverhill,Rte 495 S,winter,10
+Haverhill,SOUTH MAIN ST,fall,3
+Haverhill,SOUTH MAIN ST,spring,9
+Haverhill,SOUTH MAIN ST,summer,11
+Haverhill,SOUTH MAIN ST,winter,6
+Haverhill,BROADWAY,fall,4
+Haverhill,BROADWAY,spring,14
+Haverhill,BROADWAY,summer,9
+Haverhill,BROADWAY,winter,1
+Haverhill,WASHINGTON ST,fall,4
+Haverhill,WASHINGTON ST,spring,10
+Haverhill,WASHINGTON ST,summer,6
+Haverhill,WASHINGTON ST,winter,5
+Haverhill,RIVER ST,fall,4
+Haverhill,RIVER ST,spring,7
+Haverhill,RIVER ST,summer,10
+Haverhill,RIVER ST,winter,3
+Haverhill,WINTER ST,fall,7
+Haverhill,WINTER ST,spring,6
+Haverhill,WINTER ST,summer,7
+Haverhill,WINTER ST,winter,3
+Haverhill,HILLDALE AVE,fall,2
+Haverhill,HILLDALE AVE,spring,6
+Haverhill,HILLDALE AVE,summer,9
+Haverhill,HILLDALE AVE,winter,4
+Haverhill,INTERSTATE 495 Rte 495 S,fall,6
+Haverhill,INTERSTATE 495 Rte 495 S,spring,7
+Haverhill,INTERSTATE 495 Rte 495 S,summer,3
+Haverhill,INTERSTATE 495 Rte 495 S,winter,4
+Lawrence,BROADWAY,fall,15
+Lawrence,BROADWAY,spring,13
+Lawrence,BROADWAY,summer,15
+Lawrence,BROADWAY,winter,14
+Lawrence,HAVERHILL STREET,fall,15
+Lawrence,HAVERHILL STREET,spring,12
+Lawrence,HAVERHILL STREET,summer,7
+Lawrence,HAVERHILL STREET,winter,18
+Lawrence,ESSEX STREET,fall,10
+Lawrence,ESSEX STREET,spring,13
+Lawrence,ESSEX STREET,summer,19
+Lawrence,ESSEX STREET,winter,7
+Lawrence,SOUTH BROADWAY,fall,13
+Lawrence,SOUTH BROADWAY,spring,11
+Lawrence,SOUTH BROADWAY,summer,9
+Lawrence,SOUTH BROADWAY,winter,8
+Lawrence,LAWRENCE STREET,fall,12
+Lawrence,LAWRENCE STREET,spring,9
+Lawrence,LAWRENCE STREET,summer,5
+Lawrence,LAWRENCE STREET,winter,9
+Lawrence,SOUTH UNION STREET,fall,5
+Lawrence,SOUTH UNION STREET,spring,6
+Lawrence,SOUTH UNION STREET,summer,10
+Lawrence,SOUTH UNION STREET,winter,9
+Lawrence,HAMPSHIRE STREET,fall,14
+Lawrence,HAMPSHIRE STREET,spring,6
+Lawrence,HAMPSHIRE STREET,summer,2
+Lawrence,HAMPSHIRE STREET,winter,7
+Lawrence,WINTHROP AVENUE,fall,5
+Lawrence,WINTHROP AVENUE,spring,8
+Lawrence,WINTHROP AVENUE,summer,7
+Lawrence,WINTHROP AVENUE,winter,8
+Lawrence,WATER STREET,fall,8
+Lawrence,WATER STREET,spring,6
+Lawrence,WATER STREET,summer,3
+Lawrence,WATER STREET,winter,9
+Lawrence,MERRIMACK STREET,fall,12
+Lawrence,MERRIMACK STREET,spring,4
+Lawrence,MERRIMACK STREET,summer,8
+Lawrence,MERRIMACK STREET,winter,2
+Lowell,MIDDLESEX STREET,fall,37
+Lowell,MIDDLESEX STREET,spring,22
+Lowell,MIDDLESEX STREET,summer,32
+Lowell,MIDDLESEX STREET,winter,35
+Lowell,BRIDGE STREET,fall,31
+Lowell,BRIDGE STREET,spring,29
+Lowell,BRIDGE STREET,summer,35
+Lowell,BRIDGE STREET,winter,29
+Lowell,WESTFORD STREET,fall,29
+Lowell,WESTFORD STREET,spring,28
+Lowell,WESTFORD STREET,summer,26
+Lowell,WESTFORD STREET,winter,21
+Lowell,CENTRAL STREET,fall,18
+Lowell,CENTRAL STREET,spring,15
+Lowell,CENTRAL STREET,summer,18
+Lowell,CENTRAL STREET,winter,21
+Lowell,CHELMSFORD STREET,fall,21
+Lowell,CHELMSFORD STREET,spring,16
+Lowell,CHELMSFORD STREET,summer,17
+Lowell,CHELMSFORD STREET,winter,18
+Lowell,GORHAM STREET,fall,21
+Lowell,GORHAM STREET,spring,10
+Lowell,GORHAM STREET,summer,19
+Lowell,GORHAM STREET,winter,21
+Lowell,PAWTUCKET STREET,fall,18
+Lowell,PAWTUCKET STREET,spring,5
+Lowell,PAWTUCKET STREET,summer,17
+Lowell,PAWTUCKET STREET,winter,16
+Lowell,THORNDIKE STREET,fall,12
+Lowell,THORNDIKE STREET,spring,16
+Lowell,THORNDIKE STREET,summer,15
+Lowell,THORNDIKE STREET,winter,11
+Lowell,LAWRENCE STREET,fall,19
+Lowell,LAWRENCE STREET,spring,12
+Lowell,LAWRENCE STREET,summer,10
+Lowell,LAWRENCE STREET,winter,12
+Lowell,ROGERS STREET,fall,8
+Lowell,ROGERS STREET,spring,19
+Lowell,ROGERS STREET,summer,9
+Lowell,ROGERS STREET,winter,15
+Lynn,BOSTON STREET,fall,36
+Lynn,BOSTON STREET,spring,36
+Lynn,BOSTON STREET,summer,38
+Lynn,BOSTON STREET,winter,33
+Lynn,WESTERN AVENUE,fall,33
+Lynn,WESTERN AVENUE,spring,23
+Lynn,WESTERN AVENUE,summer,31
+Lynn,WESTERN AVENUE,winter,30
+Lynn,CHESTNUT STREET,fall,16
+Lynn,CHESTNUT STREET,spring,21
+Lynn,CHESTNUT STREET,summer,26
+Lynn,CHESTNUT STREET,winter,26
+Lynn,ESSEX STREET,fall,22
+Lynn,ESSEX STREET,spring,24
+Lynn,ESSEX STREET,summer,15
+Lynn,ESSEX STREET,winter,21
+Lynn,BROADWAY,fall,24
+Lynn,BROADWAY,spring,22
+Lynn,BROADWAY,summer,13
+Lynn,BROADWAY,winter,17
+Lynn,EASTERN AVENUE,fall,20
+Lynn,EASTERN AVENUE,spring,20
+Lynn,EASTERN AVENUE,summer,20
+Lynn,EASTERN AVENUE,winter,10
+Lynn,LYNNFIELD STREET,fall,25
+Lynn,LYNNFIELD STREET,spring,15
+Lynn,LYNNFIELD STREET,summer,7
+Lynn,LYNNFIELD STREET,winter,15
+Lynn,CHATHAM STREET,fall,20
+Lynn,CHATHAM STREET,spring,13
+Lynn,CHATHAM STREET,summer,13
+Lynn,CHATHAM STREET,winter,12
+Lynn,WASHINGTON STREET,fall,7
+Lynn,WASHINGTON STREET,spring,9
+Lynn,WASHINGTON STREET,summer,13
+Lynn,WASHINGTON STREET,winter,18
+Lynn,BROAD STREET,fall,11
+Lynn,BROAD STREET,spring,8
+Lynn,BROAD STREET,summer,12
+Lynn,BROAD STREET,winter,5
+Malden,EASTERN AV,fall,8
+Malden,EASTERN AV,spring,8
+Malden,EASTERN AV,summer,10
+Malden,EASTERN AV,winter,5
+Malden,SALEM ST,fall,3
+Malden,SALEM ST,spring,8
+Malden,SALEM ST,summer,6
+Malden,SALEM ST,winter,8
+Malden,MAIN ST,fall,7
+Malden,MAIN ST,spring,8
+Malden,MAIN ST,summer,5
+Malden,MAIN ST,winter,4
+Malden,CHARLES ST,fall,6
+Malden,CHARLES ST,spring,7
+Malden,CHARLES ST,summer,8
+Malden,CHARLES ST,winter,3
+Malden,BROADWAY,fall,5
+Malden,BROADWAY,spring,6
+Malden,BROADWAY,summer,6
+Malden,BROADWAY,winter,7
+Malden,COMMERCIAL ST,fall,3
+Malden,COMMERCIAL ST,spring,6
+Malden,COMMERCIAL ST,summer,7
+Malden,COMMERCIAL ST,winter,7
+Malden,CENTRE ST,fall,4
+Malden,CENTRE ST,spring,4
+Malden,CENTRE ST,summer,6
+Malden,CENTRE ST,winter,4
+Malden,PLEASANT ST,fall,3
+Malden,PLEASANT ST,spring,4
+Malden,PLEASANT ST,summer,3
+Malden,PLEASANT ST,winter,6
+Malden,FELLSWAY EAST,fall,3
+Malden,FELLSWAY EAST,spring,5
+Malden,FELLSWAY EAST,summer,1
+Malden,FELLSWAY EAST,winter,7
+Malden,HIGHLAND AV,fall,1
+Malden,HIGHLAND AV,spring,5
+Malden,HIGHLAND AV,summer,2
+Malden,HIGHLAND AV,winter,7
+Medford,MAIN STREET,fall,17
+Medford,MAIN STREET,spring,18
+Medford,MAIN STREET,summer,17
+Medford,MAIN STREET,winter,19
+Medford,HIGH STREET,fall,11
+Medford,HIGH STREET,spring,20
+Medford,HIGH STREET,summer,5
+Medford,HIGH STREET,winter,9
+Medford,SALEM STREET,fall,12
+Medford,SALEM STREET,spring,9
+Medford,SALEM STREET,summer,7
+Medford,SALEM STREET,winter,13
+Medford,Rte 93 S,fall,13
+Medford,Rte 93 S,spring,8
+Medford,Rte 93 S,summer,8
+Medford,Rte 93 S,winter,10
+Medford,Rte 93 N,fall,9
+Medford,Rte 93 N,spring,9
+Medford,Rte 93 N,summer,10
+Medford,Rte 93 N,winter,10
+Medford,RIVERSIDE AVENUE,fall,8
+Medford,RIVERSIDE AVENUE,spring,9
+Medford,RIVERSIDE AVENUE,summer,11
+Medford,RIVERSIDE AVENUE,winter,6
+Medford,BOSTON AVENUE,fall,6
+Medford,BOSTON AVENUE,spring,1
+Medford,BOSTON AVENUE,summer,9
+Medford,BOSTON AVENUE,winter,7
+Medford,MYSTIC VALLEY PARKWAY Rte 16 W,fall,2
+Medford,MYSTIC VALLEY PARKWAY Rte 16 W,spring,6
+Medford,MYSTIC VALLEY PARKWAY Rte 16 W,summer,4
+Medford,MYSTIC VALLEY PARKWAY Rte 16 W,winter,8
+Medford,WINTHROP STREET,fall,3
+Medford,WINTHROP STREET,spring,2
+Medford,WINTHROP STREET,summer,9
+Medford,WINTHROP STREET,winter,4
+Medford,MYSTIC VALLEY PARKWAY Rte 16 E,fall,4
+Medford,MYSTIC VALLEY PARKWAY Rte 16 E,spring,3
+Medford,MYSTIC VALLEY PARKWAY Rte 16 E,summer,6
+Medford,MYSTIC VALLEY PARKWAY Rte 16 E,winter,3
+New Bedford,ACUSHNET AVENUE,fall,35
+New Bedford,ACUSHNET AVENUE,spring,42
+New Bedford,ACUSHNET AVENUE,summer,47
+New Bedford,ACUSHNET AVENUE,winter,46
+New Bedford,COUNTY STREET,fall,35
+New Bedford,COUNTY STREET,spring,28
+New Bedford,COUNTY STREET,summer,32
+New Bedford,COUNTY STREET,winter,33
+New Bedford,ASHLEY BOULEVARD,fall,32
+New Bedford,ASHLEY BOULEVARD,spring,27
+New Bedford,ASHLEY BOULEVARD,summer,25
+New Bedford,ASHLEY BOULEVARD,winter,28
+New Bedford,PURCHASE STREET,fall,25
+New Bedford,PURCHASE STREET,spring,25
+New Bedford,PURCHASE STREET,summer,19
+New Bedford,PURCHASE STREET,winter,17
+New Bedford,ROCKDALE AVE,fall,17
+New Bedford,ROCKDALE AVE,spring,22
+New Bedford,ROCKDALE AVE,summer,19
+New Bedford,ROCKDALE AVE,winter,21
+New Bedford,KEMPTON ST,fall,16
+New Bedford,KEMPTON ST,spring,20
+New Bedford,KEMPTON ST,summer,18
+New Bedford,KEMPTON ST,winter,14
+New Bedford,COVE RD,fall,6
+New Bedford,COVE RD,spring,6
+New Bedford,COVE RD,summer,19
+New Bedford,COVE RD,winter,8
+New Bedford,COGGESHALL ST,fall,9
+New Bedford,COGGESHALL ST,spring,7
+New Bedford,COGGESHALL ST,summer,12
+New Bedford,COGGESHALL ST,winter,10
+New Bedford,BELLEVILLE AVE,fall,8
+New Bedford,BELLEVILLE AVE,spring,13
+New Bedford,BELLEVILLE AVE,summer,7
+New Bedford,BELLEVILLE AVE,winter,5
+New Bedford,ROCKDALE AVENUE,fall,5
+New Bedford,ROCKDALE AVENUE,spring,6
+New Bedford,ROCKDALE AVENUE,summer,11
+New Bedford,ROCKDALE AVENUE,winter,10
+Plymouth,STATE ROAD,fall,27
+Plymouth,STATE ROAD,spring,16
+Plymouth,STATE ROAD,summer,17
+Plymouth,STATE ROAD,winter,12
+Plymouth,LONG POND ROAD,fall,28
+Plymouth,LONG POND ROAD,spring,11
+Plymouth,LONG POND ROAD,summer,12
+Plymouth,LONG POND ROAD,winter,14
+Plymouth,Rte 3 S,fall,11
+Plymouth,Rte 3 S,spring,7
+Plymouth,Rte 3 S,summer,14
+Plymouth,Rte 3 S,winter,14
+Plymouth,SAMOSET STREET,fall,11
+Plymouth,SAMOSET STREET,spring,11
+Plymouth,SAMOSET STREET,summer,13
+Plymouth,SAMOSET STREET,winter,7
+Plymouth,Rte 3 N,fall,13
+Plymouth,Rte 3 N,spring,6
+Plymouth,Rte 3 N,summer,9
+Plymouth,Rte 3 N,winter,5
+Plymouth,COURT STREET,fall,11
+Plymouth,COURT STREET,spring,5
+Plymouth,COURT STREET,summer,4
+Plymouth,COURT STREET,winter,8
+Plymouth,COMMERCE WAY,fall,9
+Plymouth,COMMERCE WAY,spring,2
+Plymouth,COMMERCE WAY,summer,3
+Plymouth,COMMERCE WAY,winter,8
+Plymouth,STANDISH AVENUE,fall,6
+Plymouth,STANDISH AVENUE,spring,4
+Plymouth,STANDISH AVENUE,summer,5
+Plymouth,STANDISH AVENUE,winter,3
+Plymouth,SOUTH STREET,fall,1
+Plymouth,SOUTH STREET,spring,5
+Plymouth,SOUTH STREET,summer,2
+Plymouth,SOUTH STREET,winter,8
+Plymouth,CARVER ROAD,fall,7
+Plymouth,CARVER ROAD,spring,1
+Plymouth,CARVER ROAD,summer,3
+Plymouth,CARVER ROAD,winter,4
+Quincy,HANCOCK STREET,fall,51
+Quincy,HANCOCK STREET,spring,51
+Quincy,HANCOCK STREET,summer,38
+Quincy,HANCOCK STREET,winter,58
+Quincy,Rte 93 S,fall,20
+Quincy,Rte 93 S,spring,31
+Quincy,Rte 93 S,summer,23
+Quincy,Rte 93 S,winter,19
+Quincy,HONORABLE THOMAS S BURGIN PARKWAY,fall,16
+Quincy,HONORABLE THOMAS S BURGIN PARKWAY,spring,25
+Quincy,HONORABLE THOMAS S BURGIN PARKWAY,summer,17
+Quincy,HONORABLE THOMAS S BURGIN PARKWAY,winter,17
+Quincy,SOUTHERN ARTERY,fall,15
+Quincy,SOUTHERN ARTERY,spring,15
+Quincy,SOUTHERN ARTERY,summer,10
+Quincy,SOUTHERN ARTERY,winter,29
+Quincy,QUINCY AVENUE,fall,22
+Quincy,QUINCY AVENUE,spring,16
+Quincy,QUINCY AVENUE,summer,10
+Quincy,QUINCY AVENUE,winter,15
+Quincy,Rte 93 N,fall,12
+Quincy,Rte 93 N,spring,16
+Quincy,Rte 93 N,summer,18
+Quincy,Rte 93 N,winter,13
+Quincy,WASHINGTON STREET,fall,1
+Quincy,WASHINGTON STREET,spring,20
+Quincy,WASHINGTON STREET,summer,15
+Quincy,WASHINGTON STREET,winter,20
+Quincy,QUINCY SHORE DRIVE,fall,6
+Quincy,QUINCY SHORE DRIVE,spring,10
+Quincy,QUINCY SHORE DRIVE,summer,6
+Quincy,QUINCY SHORE DRIVE,winter,18
+Quincy,FURNACE BROOK PARKWAY,fall,8
+Quincy,FURNACE BROOK PARKWAY,spring,7
+Quincy,FURNACE BROOK PARKWAY,summer,5
+Quincy,FURNACE BROOK PARKWAY,winter,13
+Quincy,SEA STREET,fall,2
+Quincy,SEA STREET,spring,12
+Quincy,SEA STREET,summer,4
+Quincy,SEA STREET,winter,11
+Somerville,BROADWAY,fall,12
+Somerville,BROADWAY,spring,21
+Somerville,BROADWAY,summer,28
+Somerville,BROADWAY,winter,17
+Somerville,HIGHLAND AVENUE,fall,13
+Somerville,HIGHLAND AVENUE,spring,8
+Somerville,HIGHLAND AVENUE,summer,7
+Somerville,HIGHLAND AVENUE,winter,13
+Somerville,SOMERVILLE AVENUE,fall,5
+Somerville,SOMERVILLE AVENUE,spring,14
+Somerville,SOMERVILLE AVENUE,summer,11
+Somerville,SOMERVILLE AVENUE,winter,3
+Somerville,WASHINGTON STREET,fall,10
+Somerville,WASHINGTON STREET,spring,7
+Somerville,WASHINGTON STREET,summer,6
+Somerville,WASHINGTON STREET,winter,9
+Somerville,Rte 93 S,fall,5
+Somerville,Rte 93 S,spring,6
+Somerville,Rte 93 S,summer,6
+Somerville,Rte 93 S,winter,10
+Somerville,Rte 93 N,fall,5
+Somerville,Rte 93 N,spring,5
+Somerville,Rte 93 N,summer,6
+Somerville,Rte 93 N,winter,6
+Somerville,BEACON STREET,fall,5
+Somerville,BEACON STREET,spring,8
+Somerville,BEACON STREET,summer,5
+Somerville,BEACON STREET,winter,1
+Somerville,SUMMER STREET,fall,4
+Somerville,SUMMER STREET,spring,2
+Somerville,SUMMER STREET,summer,3
+Somerville,SUMMER STREET,winter,9
+Somerville,MYSTIC AVENUE,fall,6
+Somerville,MYSTIC AVENUE,spring,6
+Somerville,MYSTIC AVENUE,summer,2
+Somerville,MYSTIC AVENUE,winter,4
+Somerville,MEDFORD STREET,fall,3
+Somerville,MEDFORD STREET,spring,NA
+Somerville,MEDFORD STREET,summer,5
+Somerville,MEDFORD STREET,winter,6
+Springfield,BOSTON RD,fall,54
+Springfield,BOSTON RD,spring,50
+Springfield,BOSTON RD,summer,38
+Springfield,BOSTON RD,winter,35
+Springfield,STATE ST,fall,43
+Springfield,STATE ST,spring,41
+Springfield,STATE ST,summer,44
+Springfield,STATE ST,winter,39
+Springfield,SUMNER AVE,fall,40
+Springfield,SUMNER AVE,spring,31
+Springfield,SUMNER AVE,summer,26
+Springfield,SUMNER AVE,winter,35
+Springfield,MAIN ST,fall,29
+Springfield,MAIN ST,spring,25
+Springfield,MAIN ST,summer,28
+Springfield,MAIN ST,winter,28
+Springfield,WILBRAHAM RD,fall,30
+Springfield,WILBRAHAM RD,spring,25
+Springfield,WILBRAHAM RD,summer,33
+Springfield,WILBRAHAM RD,winter,20
+Springfield,Rte 91 N,fall,27
+Springfield,Rte 91 N,spring,19
+Springfield,Rte 91 N,summer,22
+Springfield,Rte 91 N,winter,18
+Springfield,PARKER ST,fall,27
+Springfield,PARKER ST,spring,24
+Springfield,PARKER ST,summer,16
+Springfield,PARKER ST,winter,16
+Springfield,ALLEN ST,fall,33
+Springfield,ALLEN ST,spring,15
+Springfield,ALLEN ST,summer,17
+Springfield,ALLEN ST,winter,13
+Springfield,ST JAMES AVE,fall,25
+Springfield,ST JAMES AVE,spring,19
+Springfield,ST JAMES AVE,summer,21
+Springfield,ST JAMES AVE,winter,13
+Springfield,CAREW ST,fall,27
+Springfield,CAREW ST,spring,22
+Springfield,CAREW ST,summer,12
+Springfield,CAREW ST,winter,14
+Taunton,BAY ST,fall,11
+Taunton,BAY ST,spring,10
+Taunton,BAY ST,summer,13
+Taunton,BAY ST,winter,6
+Taunton,BROADWAY,fall,4
+Taunton,BROADWAY,spring,7
+Taunton,BROADWAY,summer,13
+Taunton,BROADWAY,winter,12
+Taunton,COUNTY ST,fall,10
+Taunton,COUNTY ST,spring,9
+Taunton,COUNTY ST,summer,7
+Taunton,COUNTY ST,winter,9
+Taunton,TREMONT ST,fall,6
+Taunton,TREMONT ST,spring,5
+Taunton,TREMONT ST,summer,8
+Taunton,TREMONT ST,winter,6
+Taunton,WASHINGTON ST,fall,6
+Taunton,WASHINGTON ST,spring,7
+Taunton,WASHINGTON ST,summer,7
+Taunton,WASHINGTON ST,winter,5
+Taunton,Rte 24 S,fall,5
+Taunton,Rte 24 S,spring,3
+Taunton,Rte 24 S,summer,5
+Taunton,Rte 24 S,winter,7
+Taunton,WINTHROP ST,fall,7
+Taunton,WINTHROP ST,spring,2
+Taunton,WINTHROP ST,summer,6
+Taunton,WINTHROP ST,winter,5
+Taunton,Rte 140 N,fall,7
+Taunton,Rte 140 N,spring,2
+Taunton,Rte 140 N,summer,6
+Taunton,Rte 140 N,winter,3
+Taunton,COHANNET ST,fall,5
+Taunton,COHANNET ST,spring,5
+Taunton,COHANNET ST,summer,2
+Taunton,COHANNET ST,winter,2
+Taunton,Rte 495 S,fall,4
+Taunton,Rte 495 S,spring,1
+Taunton,Rte 495 S,summer,5
+Taunton,Rte 495 S,winter,4
+Waltham,LEXINGTON ST,fall,26
+Waltham,LEXINGTON ST,spring,24
+Waltham,LEXINGTON ST,summer,17
+Waltham,LEXINGTON ST,winter,12
+Waltham,MAIN ST,fall,18
+Waltham,MAIN ST,spring,26
+Waltham,MAIN ST,summer,22
+Waltham,MAIN ST,winter,12
+Waltham,Rte 95 N,fall,13
+Waltham,Rte 95 N,spring,11
+Waltham,Rte 95 N,summer,10
+Waltham,Rte 95 N,winter,13
+Waltham,Rte 95 S,fall,13
+Waltham,Rte 95 S,spring,6
+Waltham,Rte 95 S,summer,18
+Waltham,Rte 95 S,winter,10
+Waltham,MOODY ST,fall,10
+Waltham,MOODY ST,spring,11
+Waltham,MOODY ST,summer,13
+Waltham,MOODY ST,winter,8
+Waltham,SOUTH ST,fall,10
+Waltham,SOUTH ST,spring,6
+Waltham,SOUTH ST,summer,8
+Waltham,SOUTH ST,winter,6
+Waltham,TRAPELO RD,fall,10
+Waltham,TRAPELO RD,spring,5
+Waltham,TRAPELO RD,summer,7
+Waltham,TRAPELO RD,winter,6
+Waltham,LEXINGTON STREET,fall,5
+Waltham,LEXINGTON STREET,spring,7
+Waltham,LEXINGTON STREET,summer,3
+Waltham,LEXINGTON STREET,winter,9
+Waltham,MAIN STREET,fall,5
+Waltham,MAIN STREET,spring,7
+Waltham,MAIN STREET,summer,8
+Waltham,MAIN STREET,winter,4
+Waltham,BACON ST,fall,5
+Waltham,BACON ST,spring,5
+Waltham,BACON ST,summer,8
+Waltham,BACON ST,winter,4
+Worcester,MAIN STREET,fall,66
+Worcester,MAIN STREET,spring,44
+Worcester,MAIN STREET,summer,63
+Worcester,MAIN STREET,winter,63
+Worcester,PARK AVENUE,fall,50
+Worcester,PARK AVENUE,spring,32
+Worcester,PARK AVENUE,summer,33
+Worcester,PARK AVENUE,winter,45
+Worcester,BELMONT STREET,fall,41
+Worcester,BELMONT STREET,spring,41
+Worcester,BELMONT STREET,summer,24
+Worcester,BELMONT STREET,winter,34
+Worcester,CHANDLER STREET,fall,40
+Worcester,CHANDLER STREET,spring,30
+Worcester,CHANDLER STREET,summer,34
+Worcester,CHANDLER STREET,winter,36
+Worcester,GRAFTON STREET,fall,34
+Worcester,GRAFTON STREET,spring,27
+Worcester,GRAFTON STREET,summer,28
+Worcester,GRAFTON STREET,winter,38
+Worcester,LINCOLN STREET,fall,20
+Worcester,LINCOLN STREET,spring,33
+Worcester,LINCOLN STREET,summer,26
+Worcester,LINCOLN STREET,winter,40
+Worcester,Rte 290 E,fall,38
+Worcester,Rte 290 E,spring,17
+Worcester,Rte 290 E,summer,19
+Worcester,Rte 290 E,winter,28
+Worcester,Rte 290 W,fall,24
+Worcester,Rte 290 W,spring,25
+Worcester,Rte 290 W,summer,18
+Worcester,Rte 290 W,winter,29
+Worcester,PLEASANT STREET,fall,25
+Worcester,PLEASANT STREET,spring,23
+Worcester,PLEASANT STREET,summer,29
+Worcester,PLEASANT STREET,winter,19
+Worcester,HIGHLAND STREET,fall,25
+Worcester,HIGHLAND STREET,spring,28
+Worcester,HIGHLAND STREET,summer,16
+Worcester,HIGHLAND STREET,winter,25

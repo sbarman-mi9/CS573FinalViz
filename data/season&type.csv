@@ -1,0 +1,221 @@
+City,Type,fall,spring,summer,winter
+Boston,Passenger car,919,902,817,799
+Boston,Light Truck,407,406,421,345
+Boston,Bus,22,37,20,25
+Boston,Motorcycle,13,26,39,2
+Boston,MOPED,2,5,0,6
+Boston,Other,4,2,4,1
+Boston,Not Reported,5,12,12,20
+Boston,Unknown Vehicle Configuration,25,40,21,17
+Boston,Single-unit truck,18,34,35,18
+Boston,Motor homerecreational vehicle,0,0,1,0
+Boston,Trucktrailer,12,9,10,9
+Brockton,Passenger car,823,716,731,650
+Brockton,Light Truck,78,69,76,102
+Brockton,Bus,11,7,8,10
+Brockton,Motorcycle,3,22,6,1
+Brockton,MOPED,2,2,1,2
+Brockton,Other,2,3,3,1
+Brockton,Not Reported,2,3,3,2
+Brockton,Unknown Vehicle Configuration,0,0,0,0
+Brockton,Single-unit truck,6,7,6,4
+Brockton,Motor homerecreational vehicle,0,0,0,0
+Brockton,Trucktrailer,9,6,7,4
+Brookline,Passenger car,14,34,92,83
+Brookline,Light Truck,8,5,16,14
+Brookline,Bus,1,1,0,0
+Brookline,Motorcycle,0,1,1,0
+Brookline,MOPED,0,0,1,0
+Brookline,Other,0,0,0,0
+Brookline,Not Reported,0,1,1,4
+Brookline,Unknown Vehicle Configuration,0,0,9,0
+Brookline,Single-unit truck,0,1,1,1
+Brookline,Motor homerecreational vehicle,0,0,0,0
+Brookline,Trucktrailer,0,2,1,2
+Cambridge,Passenger car,417,379,367,314
+Cambridge,Light Truck,149,143,113,150
+Cambridge,Bus,8,11,5,10
+Cambridge,Motorcycle,3,7,8,2
+Cambridge,MOPED,1,2,1,1
+Cambridge,Other,1,2,2,0
+Cambridge,Not Reported,43,57,52,57
+Cambridge,Unknown Vehicle Configuration,27,30,28,53
+Cambridge,Single-unit truck,13,12,18,9
+Cambridge,Motor homerecreational vehicle,0,0,0,0
+Cambridge,Trucktrailer,7,1,6,1
+Fall River,Passenger car,1059,797,926,870
+Fall River,Light Truck,92,81,95,110
+Fall River,Bus,9,11,5,7
+Fall River,Motorcycle,5,9,16,3
+Fall River,MOPED,6,8,7,5
+Fall River,Other,1,2,6,2
+Fall River,Not Reported,6,4,10,13
+Fall River,Unknown Vehicle Configuration,3,1,3,1
+Fall River,Single-unit truck,8,11,13,10
+Fall River,Motor homerecreational vehicle,0,1,0,0
+Fall River,Trucktrailer,14,5,11,9
+Framingham,Passenger car,413,342,342,324
+Framingham,Light Truck,193,140,123,138
+Framingham,Bus,8,4,2,6
+Framingham,Motorcycle,4,5,4,0
+Framingham,MOPED,1,1,0,0
+Framingham,Other,0,0,0,0
+Framingham,Not Reported,3,0,0,1
+Framingham,Unknown Vehicle Configuration,13,6,4,18
+Framingham,Single-unit truck,13,10,13,13
+Framingham,Motor homerecreational vehicle,0,0,0,0
+Framingham,Trucktrailer,3,5,0,4
+Haverhill,Passenger car,224,586,535,210
+Haverhill,Light Truck,96,95,99,48
+Haverhill,Bus,2,3,6,1
+Haverhill,Motorcycle,1,13,14,0
+Haverhill,MOPED,1,2,2,0
+Haverhill,Other,1,1,3,0
+Haverhill,Not Reported,4,5,6,2
+Haverhill,Unknown Vehicle Configuration,1,4,4,2
+Haverhill,Single-unit truck,6,6,12,1
+Haverhill,Motor homerecreational vehicle,0,1,0,0
+Haverhill,Trucktrailer,1,2,1,1
+Lawrence,Passenger car,322,254,283,284
+Lawrence,Light Truck,165,139,134,131
+Lawrence,Bus,10,10,4,7
+Lawrence,Motorcycle,3,4,6,0
+Lawrence,MOPED,0,0,0,0
+Lawrence,Other,0,0,2,0
+Lawrence,Not Reported,0,2,1,1
+Lawrence,Unknown Vehicle Configuration,0,4,15,1
+Lawrence,Single-unit truck,6,10,2,6
+Lawrence,Motor homerecreational vehicle,0,0,0,0
+Lawrence,Trucktrailer,4,2,3,2
+Lowell,Passenger car,811,740,774,747
+Lowell,Light Truck,419,314,312,357
+Lowell,Bus,30,15,17,14
+Lowell,Motorcycle,6,16,16,1
+Lowell,MOPED,0,4,1,1
+Lowell,Other,1,3,3,2
+Lowell,Not Reported,37,45,46,87
+Lowell,Unknown Vehicle Configuration,57,35,61,36
+Lowell,Single-unit truck,17,10,9,14
+Lowell,Motor homerecreational vehicle,0,0,0,0
+Lowell,Trucktrailer,6,2,4,3
+Lynn,Passenger car,689,687,625,511
+Lynn,Light Truck,299,141,194,230
+Lynn,Bus,9,8,4,4
+Lynn,Motorcycle,4,9,12,0
+Lynn,MOPED,2,2,0,1
+Lynn,Other,4,5,6,0
+Lynn,Not Reported,25,25,26,18
+Lynn,Unknown Vehicle Configuration,4,0,7,5
+Lynn,Single-unit truck,22,10,13,17
+Lynn,Motor homerecreational vehicle,0,0,0,0
+Lynn,Trucktrailer,0,5,2,3
+Malden,Passenger car,160,208,194,192
+Malden,Light Truck,62,84,79,89
+Malden,Bus,1,1,0,1
+Malden,Motorcycle,2,6,9,0
+Malden,MOPED,1,2,1,0
+Malden,Other,0,2,2,0
+Malden,Not Reported,6,2,5,5
+Malden,Unknown Vehicle Configuration,0,3,2,0
+Malden,Single-unit truck,5,4,1,8
+Malden,Motor homerecreational vehicle,0,0,0,0
+Malden,Trucktrailer,1,0,0,0
+Medford,Passenger car,251,221,251,242
+Medford,Light Truck,132,116,121,113
+Medford,Bus,2,5,0,1
+Medford,Motorcycle,3,4,5,2
+Medford,MOPED,0,0,0,0
+Medford,Other,2,1,0,1
+Medford,Not Reported,12,15,7,8
+Medford,Unknown Vehicle Configuration,34,22,21,31
+Medford,Single-unit truck,8,4,9,2
+Medford,Motor homerecreational vehicle,0,0,0,0
+Medford,Trucktrailer,1,7,6,4
+New Bedford,Passenger car,1024,1003,1008,925
+New Bedford,Light Truck,154,127,118,134
+New Bedford,Bus,14,17,18,22
+New Bedford,Motorcycle,6,15,21,2
+New Bedford,MOPED,5,6,11,12
+New Bedford,Other,3,8,4,0
+New Bedford,Not Reported,25,32,45,48
+New Bedford,Unknown Vehicle Configuration,45,32,32,20
+New Bedford,Single-unit truck,12,7,12,13
+New Bedford,Motor homerecreational vehicle,0,1,1,0
+New Bedford,Trucktrailer,6,12,19,16
+Plymouth,Passenger car,210,176,194,140
+Plymouth,Light Truck,91,78,88,104
+Plymouth,Bus,3,3,1,4
+Plymouth,Motorcycle,1,4,7,0
+Plymouth,MOPED,3,0,0,0
+Plymouth,Other,0,0,2,0
+Plymouth,Not Reported,1,1,0,1
+Plymouth,Unknown Vehicle Configuration,34,6,9,19
+Plymouth,Single-unit truck,5,2,3,8
+Plymouth,Motor homerecreational vehicle,0,0,0,0
+Plymouth,Trucktrailer,2,2,2,2
+Quincy,Passenger car,519,461,512,484
+Quincy,Light Truck,290,254,216,269
+Quincy,Bus,3,5,2,6
+Quincy,Motorcycle,2,7,11,0
+Quincy,MOPED,2,0,2,2
+Quincy,Other,0,1,1,1
+Quincy,Not Reported,3,9,5,11
+Quincy,Unknown Vehicle Configuration,0,2,4,19
+Quincy,Single-unit truck,13,6,16,16
+Quincy,Motor homerecreational vehicle,0,0,0,0
+Quincy,Trucktrailer,4,4,8,5
+Somerville,Passenger car,189,197,169,192
+Somerville,Light Truck,75,85,69,92
+Somerville,Bus,5,3,1,3
+Somerville,Motorcycle,1,4,3,0
+Somerville,MOPED,0,0,0,1
+Somerville,Other,0,1,0,0
+Somerville,Not Reported,2,2,4,2
+Somerville,Unknown Vehicle Configuration,19,15,14,16
+Somerville,Single-unit truck,10,3,14,8
+Somerville,Motor homerecreational vehicle,0,0,0,0
+Somerville,Trucktrailer,2,1,8,1
+Springfield,Passenger car,1625,1527,1427,1442
+Springfield,Light Truck,118,97,106,142
+Springfield,Bus,28,27,14,25
+Springfield,Motorcycle,6,23,26,1
+Springfield,MOPED,6,13,13,18
+Springfield,Other,5,4,10,1
+Springfield,Not Reported,28,21,26,16
+Springfield,Unknown Vehicle Configuration,1,2,2,1
+Springfield,Single-unit truck,14,20,20,29
+Springfield,Motor homerecreational vehicle,0,0,0,1
+Springfield,Trucktrailer,10,10,24,9
+Taunton,Passenger car,285,269,276,300
+Taunton,Light Truck,97,59,96,77
+Taunton,Bus,2,5,1,5
+Taunton,Motorcycle,4,6,10,0
+Taunton,MOPED,0,1,3,0
+Taunton,Other,0,0,1,0
+Taunton,Not Reported,7,2,1,8
+Taunton,Unknown Vehicle Configuration,0,0,0,0
+Taunton,Single-unit truck,6,5,6,15
+Taunton,Motor homerecreational vehicle,0,0,0,0
+Taunton,Trucktrailer,2,0,2,1
+Waltham,Passenger car,397,434,416,422
+Waltham,Light Truck,103,47,64,47
+Waltham,Bus,1,1,0,3
+Waltham,Motorcycle,2,4,10,1
+Waltham,MOPED,1,1,1,3
+Waltham,Other,0,0,0,0
+Waltham,Not Reported,3,1,1,0
+Waltham,Unknown Vehicle Configuration,0,0,1,0
+Waltham,Single-unit truck,8,9,10,12
+Waltham,Motor homerecreational vehicle,0,0,0,0
+Waltham,Trucktrailer,1,2,3,2
+Worcester,Passenger car,1477,1160,1102,1286
+Worcester,Light Truck,630,485,470,611
+Worcester,Bus,20,16,16,10
+Worcester,Motorcycle,9,27,24,3
+Worcester,MOPED,1,1,2,4
+Worcester,Other,2,5,6,0
+Worcester,Not Reported,67,90,75,102
+Worcester,Unknown Vehicle Configuration,95,24,25,52
+Worcester,Single-unit truck,32,9,28,25
+Worcester,Motor homerecreational vehicle,0,1,0,0
+Worcester,Trucktrailer,15,8,6,7
