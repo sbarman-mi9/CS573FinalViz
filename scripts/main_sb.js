@@ -119,7 +119,7 @@ var prepareConditionData = function(value) {
         heatMap.call(svg, {data: dt});
     }
 };
-
+var barXScale,barYScale
 var prepareDataForAll = function(useData) {
     var mapData = _.chain(useData).groupBy("town").map(function(values, key) {
         return {type : key, 
@@ -134,13 +134,17 @@ var prepareDataForAll = function(useData) {
     });
     var towns = d3.set();
     mapData.forEach(function(d, i){ towns.add(d.type); });
-    var xScale = d3.scale.ordinal()
-                    .domain(towns.values())
-                    .rangeBands([0, width-margin.right-margin.left]);
+
+      var  xScale = d3.scale.ordinal()
+            .domain(towns.values())
+            .rangeBands([0, width - margin.right - margin.left]);
+
     var yval = d3.max(mapData, function(d){ return d.crashes; });
-    var yScale = d3.scale.linear()
-                         .domain([0, yval]).nice()
-                         .range([height, margin.top+margin.bottom]);
+
+      var  yScale = d3.scale.linear()
+            .domain([0, yval]).nice()
+            .range([height, margin.top + margin.bottom]);
+
     var svg = d3.select("#towns svg");
     barChart.call(svg, {data: mapData,
                         xScale: xScale,
@@ -205,8 +209,8 @@ var barChart = function(params) {
 var heatMap = function(params) {            
     var roadLabels = ["Snow", "Ice", "Wet", "Slush", "Dry"]; //rows
     var lightLabels = ["Dark-lighted", "Dawn", "Daylight", "Dusk", "Dark-not lighted"]; //columns
-    var width = 300
-        height = 300
+    var width = 250
+        height = 250
         var rows = 5, cols = 5;
     function cell_dim(total, cells) { return Math.floor(total/cells); }
     var row_height = cell_dim(height, rows);
