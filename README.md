@@ -16,7 +16,7 @@ Visualizing Vehicle Crash Incidents in Massachusetts
 [Codebase](https://github.com/sbarman-mi9/CS573FinalViz)  
 
 ## Overview of files: 
-All our datasets can be found in the ** *data* ** folder. It contains both raw datasets and processed datasets (crash_ma.csv, city&type.csv, season&type.csv, street_season.csv, street_time.csv, ...).  
+All our datasets can be found in the ***data*** folder. It contains both raw datasets and processed datasets (crash_ma.csv, city&type.csv, season&type.csv, street_season.csv, street_time.csv, ...).  
   
 Our JavaScript code and libraries used can be found in the ** *scripts* ** folder of which ** *main_sb.js* ** and ** *main_so.js* ** are our code.  
   
