@@ -33,8 +33,8 @@ function createRadarChart(isSeason)
         draw: function(id, d, options){
             var cfg = {
                 radius: 2,
-                w: 500,
-                h: 500,
+                w: 400,
+                h: 400,
                 factor: 1,
                 factorLegend: .85,
                 levels: 4,
@@ -44,7 +44,7 @@ function createRadarChart(isSeason)
                 ToRight: 5,
                 TranslateX: 80,
                 TranslateY: 30,
-                ExtraWidthX: 500,
+                ExtraWidthX: 400,
                 ExtraWidthY: 100,
                 color: d3.scale.category10()
             };
@@ -512,7 +512,7 @@ function chart(csvpath, color,isSeason) {
 
     var margin = {top: 20, right: 50, bottom: 50, left: 80};
     var width = document.body.clientWidth - margin.left - margin.right;
-    width=width-100
+    width=width-150
     var height = 400 - margin.top - margin.bottom;
 
     var tooltip = d3.select("#themeRiverContainer")

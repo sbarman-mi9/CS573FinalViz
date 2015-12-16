@@ -1,4 +1,5 @@
 console.log(d3.version);
+var firstClick=0
 $.fn.extend({
     propAttr: $.fn.prop || $.fn.attr
 });
@@ -140,7 +141,7 @@ var prepareDataForAll = function(useData) {
             .rangeBands([0, width - margin.right - margin.left]);
 
     var yval = d3.max(mapData, function(d){ return d.crashes; });
-
+    height=420
       var  yScale = d3.scale.linear()
             .domain([0, yval]).nice()
             .range([height, margin.top + margin.bottom]);
@@ -154,9 +155,10 @@ var prepareDataForAll = function(useData) {
 };
 
 var barChart = function(params) {
-    height=420
+
     var xAxis = d3.svg.axis().scale(params.xScale)
                              .orient("bottom");
+    height=420
     this.append("g").attr("class", "x axis")
                     .attr("transform", "translate("+margin.left+","+(height-margin.bottom)+")")
                     .call(xAxis)
@@ -170,8 +172,21 @@ var barChart = function(params) {
                              .innerTickSize(-width+margin.left+margin.right)
                              .outerTickSize(0);
     this.append("g").attr("class", "y axis")
-                    .attr("transform", "translate("+margin.left+",-"+margin.bottom+")")
-                    .call(yAxis);
+        .call(yAxis)
+                    .attr("transform",
+    function()
+    {
+       // if(firstClick==1) {
+            //firstClick++
+         //   return "translate("+margin.left+",110)"
+
+      //  }
+      //  else {
+           // firstClick++
+            return "translate(" + margin.left + ",-" + margin.bottom + ")"
+       // }
+    });
+
 
     this.append("g").attr("class", "draw-region")
         .selectAll("rect")
@@ -201,7 +216,11 @@ var barChart = function(params) {
 
     this.append("g").attr("class", "y label")
         .attr("transform", "rotate(-90)")
-        .append("text").attr("x", -(height-margin.left-margin.right)/2)
+        .append("text").attr("x",
+        function()
+        {
+                return -(height-margin.left-margin.right)/2
+        })
         .attr("y",15).attr("text-anchor", "middle")
         .text("Crash Frequency");
 };        

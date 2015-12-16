@@ -81,7 +81,7 @@ div.show {
 
 #lowerContainer .center_boxes {
     height:600px;
-padding-top: 50px;
+
 }
 
 
@@ -134,6 +134,7 @@ button {
 
 #themeRiverContainer{
     position:relative;
+    overflow-x: hidden;
 }
 
 
