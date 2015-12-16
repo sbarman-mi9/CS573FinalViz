@@ -7,13 +7,10 @@ Visualizing Vehicle Crash Incidents in Massachusetts
 * Sachin Sudarshana (Email: ssudarshana@wpi.edu, Github: sachin019)  
 
 ## Link to Website:   
-[Project Link](http://sbarman-mi9.github.io/CS573FinalViz/index.html)  
+[Project Website](http://sbarman-mi9.github.io/CS573FinalViz/index.html)  
 
 ## Link to Screen Cast:   
-[Screen Cast Link]()  
-
-## Link to Project Code:  
-[Codebase](https://github.com/sbarman-mi9/CS573FinalViz)  
+[Screen Cast Link](https://youtu.be/vXr5uqpJsJ0)  
 
 ## Overview of files: 
 All our datasets can be found in the ***data*** folder. It contains both raw datasets and processed datasets (crash_ma.csv, city&type.csv, season&type.csv, street_season.csv, street_time.csv, ...).  
